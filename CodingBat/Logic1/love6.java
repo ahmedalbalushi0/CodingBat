@@ -10,4 +10,5 @@ public class love6 {
         else
             return false;
     }
+
 }
